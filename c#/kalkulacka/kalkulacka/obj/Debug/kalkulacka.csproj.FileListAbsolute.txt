@@ -1,0 +1,10 @@
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe.config
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\bin\Debug\kalkulacka.pdb
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.AssemblyReference.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Form1.resources
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Properties.Resources.resources
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.GenerateResource.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.exe
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\kalkulacka\kalkulacka\obj\Debug\kalkulacka.pdb
